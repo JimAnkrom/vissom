@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/snoyface/vissom/issues"
   },
-  "homepage": "https://github.com/snoyface/vissom#readme"
+  "homepage": "https://github.com/snoyface/vissom#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
 }
