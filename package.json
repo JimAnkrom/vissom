@@ -1,0 +1,19 @@
+{
+  "name": "vissom",
+  "version": "0.0.1",
+  "description": "app to connect clients moving parameters with interactive visuals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snoyface/vissom.git"
+  },
+  "author": "jonathan macleod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snoyface/vissom/issues"
+  },
+  "homepage": "https://github.com/snoyface/vissom#readme"
+}
